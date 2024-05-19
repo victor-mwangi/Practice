@@ -1,0 +1,5 @@
+C:\int ques\Practice Folder Leetcode\BeginLeet\obj\Debug\net7.0\BeginLeet.csproj.AssemblyReference.cache
+C:\int ques\Practice Folder Leetcode\BeginLeet\obj\Debug\net7.0\BeginLeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\int ques\Practice Folder Leetcode\BeginLeet\obj\Debug\net7.0\BeginLeet.AssemblyInfoInputs.cache
+C:\int ques\Practice Folder Leetcode\BeginLeet\obj\Debug\net7.0\BeginLeet.AssemblyInfo.cs
+C:\int ques\Practice Folder Leetcode\BeginLeet\obj\Debug\net7.0\BeginLeet.csproj.CoreCompileInputs.cache
